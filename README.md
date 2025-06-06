@@ -47,10 +47,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
    <a href="mailto:den_1998_98@mail.ru">
-    <img src="https://img.shields.io/badge/email-blue" alt="Email"/>
+    <img src="https://img.shields.io/badge/email-blue?style=for-the-badge" alt="Email"/>
+  </a>
+   <a href="tel:+79272347431">
+    <img src="https://img.shields.io/badge/phone-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
   </a>
 </div>
-
-
-
-
