@@ -36,7 +36,6 @@
   📊 My stats:
 </h2>
 <div id="stat" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mozarh&theme=github_white" alt="GitHub Streak"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mozarh" alt="Github Languages"/>
 </div>
 <h2 >
